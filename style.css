@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    width: 100%;
+    background-color: rgb(45, 118, 234);
+    height: 7rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20rem;
+}
+
+.trello h1{
+    font-size: 35px;
+    color: white;
+    font-family: sans-serif;
+}
