@@ -14,8 +14,28 @@
     gap: 20rem;
 }
 
+.trello{
+    display: flex;
+    gap: 10px;
+}
+
 .trello h1{
     font-size: 35px;
     color: white;
     font-family: sans-serif;
+}
+
+.trello .fa-brands{
+    color: white;
+    font-size: 35px;
+}
+
+.links .fa-brands{
+    color: white;
+    font-size: 35px;
+}
+
+.links{
+    display: flex;
+    gap: 10px;
 }
