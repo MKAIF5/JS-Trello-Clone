@@ -7,6 +7,8 @@
 
 body {
   background-color: rgb(145, 172, 214);
+  width: 100%;
+  min-height: auto;
 }
 
 .main {
@@ -90,4 +92,17 @@ main {
   color: black;
   font-family: sans-serif;
   border: none;
+}
+
+.footer {
+  background-color: rgb(71, 130, 224);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 3rem;
+  font-size: 23px;
+  color: white;
+  position: absolute;
+  bottom: 0;
 }

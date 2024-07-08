@@ -114,3 +114,10 @@ addCard.addEventListener("click", () => {
 
   main.insertBefore(yourDiv, addCard);
 });
+
+// const removeTask = document.querySelectorAll(".remove_Element");
+// removeTask.forEach((i) => {
+//     i.addEventListener("click", (event) => {
+//        event.target.parentElement.remove();
+//     })
+//  })
